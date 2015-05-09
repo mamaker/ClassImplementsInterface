@@ -10,6 +10,9 @@ namespace ClassImplementsInterface
     {
         static void Main(string[] args)
         {
+            NectarStinger bobTheBee = new NectarStinger();
+            bobTheBee.LookForEnemies();
+            bobTheBee.FindFlowers();
         }
     }
 }

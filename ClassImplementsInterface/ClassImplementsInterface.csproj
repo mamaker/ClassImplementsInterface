@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bee.cs" />
-    <Compile Include="IstingPatrol.cs" />
+    <Compile Include="INectarCollector.cs" />
+    <Compile Include="IStingPatrol.cs" />
+    <Compile Include="NectarStinger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

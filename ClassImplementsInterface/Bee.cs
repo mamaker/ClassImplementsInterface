@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassImplementsInterface
 {
-    class Bee : IstingPatrol
+    class Bee : IStingPatrol
     {
         public int AlertLevel { get; private set; }
         public int StingerLength { get; set; }
